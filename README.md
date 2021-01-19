@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pablocerglez&label=Profile%20views&color=0e75b6&style=flat-square&color=brightgreen" alt="pablocerglez" /> </p>
 
 <p>Welcome to my page! </br> I'm Pablo CerGlez, Backend developer from <b>Colima, Mexico</b>.
 
